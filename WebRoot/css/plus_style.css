@@ -1,0 +1,71 @@
+﻿@charset "utf-8";
+@import url(/templates/css_style/layout.css);
+.i_login{width:237px; height:247px; float:right; background:url(../images/b3.png) no-repeat;}
+.i_login h1{line-height:42px; padding-left:20px; font-size:18px; color:#065e07;}
+.i_login ul{padding:10px 0 0 0;}
+
+.interactform .login{width:214px; margin:0 auto;  background-color:White;}
+.interactform .login td{ border:0px; padding:0px; line-height:35px; }
+.login_btn{ border:0px; width:73px; height:27px; background:url(/templates/images/login.gif) no-repeat; text-indent:-9999px; cursor:pointer;}
+.interactform .reg_btn{ text-align:center; cursor:pointer;}
+
+
+
+
+.interactform{}
+.formColor_0{background:White;}
+.formColor_1,.formColor_1 td{ background:#f9f9f9;}
+.formColor_3{color:Red;}
+.interactform .f16{ font-size:16px; font-weight:bold;}
+.interactform .wauto{ width:auto;}
+.interactform table{width:100%; background:#f9f9f9; }
+
+.interactform table{ font-size: 12px;}
+.interactform col.td1{}
+.interactform col.td2{}
+.interactform col.td3{width:10%;}
+.interactform col.td4{width:10%;}
+.interactform col.td5{width:10%;}
+.interactform col.td6{width:10%;}
+.interactform col.td7{width:10%;}
+.interactform col.td8{width:10%;}
+.interactform table th{border-bottom:1px solid #ccc;border-top:1px solid #ccc;height:31px;background:url(../images/contactformtitlebg.jpg) repeat-x;text-align:center;}
+.interactform td{padding:5px;border-bottom:1px solid #ccc;}
+.interactform .order-item{ text-align: center;}
+.interactform tr.item-hover{ background:#feffe5;}
+.bought-table .sep-row{height:7px;}
+.interactform .order-bd{ background:White;}
+.interactform .order-bd td{padding:8px 5px;text-align:center;vertical-align:top;}
+.interactform table .fr{text-align:right;}
+.interactform table .fl{text-align: left;}
+
+.form_info{display:inline-block;width:98%;border-bottom:1px dashed #ccc; padding:5px 0px 5px 10px;line-height:25px;}
+.form_info strong{display:block;float:left; /* width:100px; text-indent: 10px; */ font-weight:normal;}
+.form_info a{ white-space: nowrap;}
+
+.form_info input,.form_info textarea{display:inline;float:left; /* margin:auto 5px; */}
+
+.form_info .button{display:inline;margin-left:30px;padding:0 20px;text-align:center;}
+.commentList{ display: block; height: 100%;}
+.commentList li{border-bottom:1px dashed #ccc;}
+.commentList span{display:block; float:left;}
+.commentList .userName{text-indent:10px;}
+.commentList .name{}
+.commentList .userTime{text-indent:80px;}
+.commentList .time{}
+.commentList .commentTitle{display:inline-block; width:100%; line-height:40px; }
+.commentList .commentContent{padding:10px 10px;}
+.comments_listtit,.comments_formtit{ font-weight: bold; padding: 8px 0px 0px 10px;}
+.update_inpnum{ width: 35px;}
+.myorders_tblist,.commentList{ /* background: #fff; */ background-color: #fff;}
+
+.onlineshop_list{ padding:10px 0px; clear: both;}
+.onlineshop_list dl{float:left; display: block; padding:0px 10px; width:202px; height: 210px; background:url(../images/b1.gif) no-repeat top center;}
+.onlineshop_list dt{text-align:center; width: 196px; height: 126px; display: block; margin: 0px auto; padding-top: 3px;}
+.onlineshop_list dd{text-align:center; width: 200px; line-height: 24px; padding-top:3px; overflow: hidden;}
+.onlineshop_list dt img{ _width: 196px; _height: 126px; max-width: 196px; max-height: 126px;}
+.onlineshop_list dd a,.onlineshop_list dd span{ display: block; overflow: hidden; white-space: nowrap; text-overflow:ellipsis;}
+.onlineshop_list dd span{padding-bottom: 2px;}
+.onlineshop_list dl.hover{background:url(../images/hover.gif) no-repeat top center;}
+.onlineshop_list dl.hover dd{text-align:center; line-height:24px; padding-top:3px; color:#ff3300;}
+.onlineshop_list .pline{height:1px; background:url(../images/line2.gif) repeat-x; font-size:0px; line-height:0px; width:681px; padding:0px; margin:0 auto;}

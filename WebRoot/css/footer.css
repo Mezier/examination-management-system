@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* ¿ªÊ¼µ×²¿ */
+.footer{ background:url(../images/footer.jpg) no-repeat top #fefefe; padding-top:10px; text-align:center;}
+.footer *{}
+.footer a:hover{}
+#com_othermenu{padding-top:16px;line-height:35px;}
+#com_copyright{padding:10px;}
+#com_webcounter{}

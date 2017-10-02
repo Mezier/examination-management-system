@@ -1,0 +1,54 @@
+div {
+	border: 0px solid red; border-image: none;
+}
+.div {
+	border-radius: 10px; border: 2px solid rgb(181, 214, 123); border-image: none; width: 330px; height: 300px; float: left; -moz-border-radius: 10px;
+}
+.div1 {
+	width: 260px; height: 185px; color: rgb(66, 57, 66); font-size: 14px; margin-top: 20px; margin-left: 30px;
+}
+.div2 {
+	border: 0px solid blue; border-image: none; width: 260px; height: 75px; color: rgb(66, 57, 66); font-size: 14px; margin-left: 30px;
+}
+.div3 {
+	margin: 0px auto; border: 0px solid blue; border-image: none; width: 980px; height: 600px;
+}
+.div4 {
+	width: 881px; height: 65px; margin-left: 45px;
+}
+.div5 {
+	width: 570px; height: 500px; margin-left: 20px; float: left;
+}
+.divs {
+	float: right;
+}
+.div6 {
+	width: 258px; height: 60px;
+}
+.div10 {
+	border-radius: 3px; width: 80px; height: 30px; text-align: center; color: white; line-height: 30px; font-size: 15px; margin-top: 78px; margin-left: 15px; float: left; background-color: rgb(140, 189, 66); -moz-border-radius: 10px;
+}
+.div12 {
+	width: 60px; height: 27px; color: rgb(66, 57, 66); margin-top: 15px; float: left;
+}
+.div14 {
+	width: 60px; height: 20px; margin-top: 17px; margin-left: 5px; float: left;
+}
+.div15 {
+	border: 1px solid rgb(204, 204, 204); border-image: none; width: 50px; height: 20px; color: red; line-height: 20px; margin-top: 17px; margin-left: 5px; float: left; cursor: pointer; background-color: rgb(204, 204, 204);
+}
+.input1 {
+	border: 2px solid rgb(181, 214, 123); border-image: none; width: 60px;
+}
+.input {
+	border: 2px solid rgb(181, 214, 123); border-image: none; width: 195px; height: 35px; color: rgb(204, 204, 204); margin-top: 15px;
+}
+.div7 {
+	width: 100px; height: 40px; margin-top: 20px; float: left;
+}
+.div8 {
+	width: 80px; height: 20px; font-size: 15px; margin-top: 35px; margin-left: 60px; float: left;
+}
+.a {
+	color: green;
+}

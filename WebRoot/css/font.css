@@ -1,0 +1,20 @@
+@charset "utf-8";
+.f24{color:#71a61a; font-size:24px;}
+.color{color:#000;}
+.color a{color:#000;text-decoration:none;}
+.color a:hover {color:#000;text-decoration:underline;}
+.border{border:solid #fff 1px; padding:3px;}
+.color1{color:#006600;}
+.color1 a{color:#006600;text-decoration:none;}
+.color1 a:hover {color:#006600;text-decoration:underline;}
+.color2{color:#848484;}
+.color2 a{color:#848484;text-decoration:none;}
+.color2 a:hover {color:#848484;text-decoration:underline;}
+.input{width:143px; height:22px; border:solid #c6ded0 1px;}
+.color3{color:#69a987;}
+.color3 a{color:#69a987;text-decoration:none;}
+.color3 a:hover {color:#69a987;text-decoration:underline;}
+.date{color:#bfbfbd;}
+.cl1{color:#a7c246;}
+.cl1 a{color:#a7c246;text-decoration:none;}
+.cl1 a:hover {color:#a7c246;text-decoration:underline;}
